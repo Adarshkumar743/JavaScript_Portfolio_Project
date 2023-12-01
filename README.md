@@ -16,7 +16,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/Adarshkumar743/Portfolio.git
+git clone https://github.com/Adarshkumar743/JavaScript_Portfolio_Project.git
 Open the index.html file in your preferred web browser.
 
 Features
